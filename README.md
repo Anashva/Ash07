@@ -2,7 +2,7 @@
 
 A passionate programmer who loves DSA and development .I enjoy learning new tech.
 
-- 🔭 Currently: building [project-name](https://github.com/Anashva/Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts)
+- 🔭 Currently: building [Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts](https://github.com/Anashva/Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts)
 - 🌱 Now learning: React and TypeScript
 - 💬 Ask me about: JavaScript, APIs, developer tooling
 - 📫 Contact: anashva2406.com
@@ -50,7 +50,7 @@ JavaScript · TypeScript · Python · React · Node.js · Docker · PostgreSQL �
 
 ---
 
-## Connect
+## Connect with me
 <a href="mailto:anshva2406@gmail.con" title="Email"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
 <a href="https://www.linkedin.com/in/anashva-singh-124962291/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/Anashva_07/" title="LeetCode" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FE7A16?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"></a>
