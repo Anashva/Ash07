@@ -1,4 +1,4 @@
-# Hi — I'm Anashva Singh - Anashva👋
+# Hi, I'm Anashva Singh - Anashva👋
 
 A passionate programmer who loves DSA and development. I enjoy learning new tech.
 
