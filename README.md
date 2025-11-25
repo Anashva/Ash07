@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/Anashva?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-### 🚀 Passionate Developer | 💡 Tech Innovator | 🎯 Problem Solver
+### 🚀 Passionate Programmer| 💡 Tech Innovator | 🎯 Problem Solver
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
