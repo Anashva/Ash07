@@ -14,20 +14,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const anashva = {
-    location: "India 🇮🇳",
-    currentFocus: "Full Stack Development",
-    learning: ["React", "TypeScript", "Advanced DSA"],
-    interests: ["Web Dev", "Automation", "Problem Solving"],
-    funFact: "I love automating repetitive tasks ⚡",
-    askMeAbout: ["JavaScript", "APIs", "Developer Tooling"]
-};
-```
-
+- 🌍 Location: **India 🇮🇳**
 - 🔭 Currently building: **[Women Safety Platform](https://github.com/Anashva/Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts)**
-- 🌱 Learning: **React.js & TypeScript**
-- 💬 Ask me about: **JavaScript, Node.js, APIs, Web Development**
+- 🎯 Current Focus: **Full Stack Development**
+- 🌱 Learning: **React.js, TypeScript & Advanced DSA**
+- 💡 Interests: **Web Dev, Automation, Problem Solving**
+- 💬 Ask me about: **JavaScript, Node.js, APIs, Developer Tooling**
 - 📫 Reach me: **[anshava2406@gmail.com](mailto:anshava2406@gmail.com)**
 - ⚡ Fun fact: **I automate everything that takes more than 5 minutes!**
 
@@ -98,28 +90,6 @@ const anashva = {
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Women Safety Platform](https://github-readme-stats.vercel.app/api/pin/?username=Anashva&repo=Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts&theme=radical&hide_border=true)](https://github.com/Anashva/Women-Safety-with-Real-Time-Tracking-and-Emergency-Alerts)
-
-</div>
-
-### 🛡️ Women Safety Platform
-**Real-Time Tracking & Emergency Alert System**
-
-A comprehensive safety platform featuring:
-- 🚨 One-tap SOS emergency alerts
-- 📍 Real-time GPS tracking
-- 👮 Automated police connectivity
-- 🗺️ Heat maps & risk zone visualization
-- 📱 Multi-platform support
-
-**Tech Stack:** React.js · Node.js · Express · MongoDB · Socket.io · JWT
-
----
-
 ## 💡 Coding Profiles
 
 <div align="center">
@@ -157,9 +127,7 @@ A comprehensive safety platform featuring:
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💭 Thanks for visiting! Happy coding! 🚀
 
 ---
 
@@ -170,7 +138,5 @@ A comprehensive safety platform featuring:
 ---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
