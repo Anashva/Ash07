@@ -114,33 +114,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Coding Profiles
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://leetcode.com/u/Anashva_07/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80" alt="LeetCode"/>
-        <br><strong>LeetCode</strong>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://codeforces.com/profile/Anashva_Singh">
-        <img src="https://art.npanuhin.me/SVG/Codeforces/codeforces-3.svg" width="80" alt="Codeforces"/>
-        <br><strong>Codeforces</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Anashva_07?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/Anashva_07/)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📈 Contribution Graph
 
 <div align="center">
