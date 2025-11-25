@@ -172,25 +172,3 @@
 </a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-anashva.vercel.app/api/spotify)](https://open.spotify.com/user/31l4qegdvtrcoh5wdyxdxr4pjmly)
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### ✨ Thanks for visiting! Let's connect and build amazing things together! 🚀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
