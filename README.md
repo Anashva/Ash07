@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Anashva Singh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anashva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -98,7 +98,7 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashva&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anashva&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" [...]
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anashva&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -109,6 +109,16 @@
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=Anashva&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Anashva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anashva&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Anashva)
 
 </div>
 
