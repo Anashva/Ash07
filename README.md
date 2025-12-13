@@ -90,13 +90,6 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anashva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anashva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashva&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anashva&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 
