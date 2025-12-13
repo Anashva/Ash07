@@ -114,16 +114,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Anashva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anashva&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Anashva)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤝 Connect With Me
 
 <div align="center">
